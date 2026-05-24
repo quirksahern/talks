@@ -308,4 +308,41 @@ hackday"}
 
 :::
 
+## Samantha {.smaller}
+
+::: {layout-ncol=2}
+
+::: {.cell}
+
+- Tired coming into CW26, but excited to attend
+- Great dinner with other SSI Fellows celebrating DIRECT's 3 birthday
+- Spent the BH weekend visiting my Aunt
+- **Conference itself**
+- **Discussion session**: How do we encourage sustainable and resource constrained compute with all the AI hype? 
+- **Collaborative idea sessions**: ACTskills - Supporting the next generation in Articulating, Communicating and Translating their skills and potentials
+  - Came joint third
+- **Hack day**: Queer Coded
+
+:::
+
+::: {.r-stack}
+
+![](figures/samantha/SamChat.png){.fragment fig-alt="Discussion session - mid flow" height=550}
+
+![](figures/samantha/SSICW29.04-4185.jpg){.fragment fig-alt="SSI Fellows group photo" height=550}
+
+![](figures/samantha/SSICW29.04-4549.jpg){.fragment fig-alt="3rd place group phto" height=550}
+
+![](figures/samantha/IMG_9282.jpg){.fragment fig-alt="View over Donaghadee" height=550}
+
+![](figures/samantha/IMG_9286.jpg){.fragment fig-alt="Me and my aunt" height=550}
+
+![](figures/samantha/IMG_9292.jpg){.fragment fig-alt="y aunt, uncle and Autumn at the beach"}
+
+
+
+:::
+
+:::
+
 {{< include /_includes/qr-code.qmd >}}
